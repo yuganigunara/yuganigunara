@@ -56,7 +56,7 @@
 
 ---
 
-### ✨ Let's Connect!
-💬 Reach out for collaborations or just say hi! 😊
+
+
 
 
