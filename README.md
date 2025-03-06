@@ -49,7 +49,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=Hi!+I'm+Yugani+Gunarathna;A+passionate+Software+Developer;Exploring+new+technologies+everyday;Let's+build+something+amazing!" />
 </p>
-
+---
 
 
 ### 🚀 Latest Projects  
