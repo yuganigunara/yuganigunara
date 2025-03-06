@@ -2,59 +2,79 @@
 ### 🚀 Intern Software Engineer | Sri Lanka  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yuganigunarathna&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=yuganigunarathna&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/yuganigunarathna?style=social" alt="GitHub Followers">
 </p>
 
 ---
 
-### 🛠️ About Me
-- 🎓 HND Software Engineering Student @ **NIBM**
-- 💡 Passionate about **Software Development, Web Technologies, and AI**
-- 🛠️ Currently exploring **Spring Boot, React, and Microservices**
-- 📩 Feel free to connect with me!
+### 🛠️ About Me  
+🔹 **HND Software Engineering Student** @ **NIBM**  
+🔹 Passionate about **Software Development, Web Technologies, and AI**  
+🔹 Exploring **Spring Boot, React, and Microservices**  
+🔹 Open to collaborations & learning new things!  
 
 ---
 
+### 🌐 Connect with Me  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi!+I'm+Yugani+Gunarathna;A+passionate+Software+Developer;Exploring+new+technologies+everyday" alt="Typing Animation" />
-</p>
-
-### 🌐 Connect with Me
-<p align="center">
-<a href="https://linkedin.com/in/yuganigunarathna" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
-</a>
-<a href="https://instagram.com/yushayu_99" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/>
-</a>
+  <a href="https://linkedin.com/in/yuganigunarathna" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://instagram.com/yushayu_99" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 </p>
 
 ---
 
-### 🔥 Tech Stack & Tools
+### 💻 Tech Stack & Tools  
 <p align="center">
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/></a>
+  <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,bootstrap,androidstudio,git,mysql,php" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuganigunarathna&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yuganigunarathna&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yuganigunarathna&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 ---
 
-
- 
-
+### 🎵 Now Playing  
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31tqgnxjcv6nj3q56kxzr5bhl2se&cover_image=true&theme=novatorem" alt="Spotify Now Playing" />
+</p>
 
 ---
+
+### 🚀 Fun Animation  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=Hi!+I'm+Yugani+Gunarathna;A+passionate+Software+Developer;Exploring+new+technologies+everyday;Let's+build+something+amazing!" />
+</p>
+
+---
+
+### 🏆 GitHub Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yuganigunarathna&theme=tokyonight&no-bg=true&no-frame=true" />
+</p>
+
+---
+
+### 🚀 Latest Projects  
+- ✅ **MealMorph:** A dynamic subscription-based meal planning website  
+- ✅ **Barcode Detection:** An innovative barcode scanning project  
+- ✅ **Healthcare Management System:** Microservices-based application  
+
+---
+
+### 💬 Let's Connect!  
+💡 Always open to discussing **new projects, collaborations, and opportunities**!  
+📩 Reach out to me anytime! 😊  
+
 
 
 
