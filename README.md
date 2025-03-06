@@ -51,9 +51,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=yuganigunarathna&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/commit-activity/m/yuganigunarathna?label=Live%20Status&style=for-the-badge&logo=github&color=2e2e2e" alt="GitHub Live Status"/>
-</p>
+
 
 ---
 
