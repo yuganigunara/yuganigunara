@@ -15,6 +15,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi!+I'm+Yugani+Gunarathna;A+passionate+Software+Developer;Exploring+new+technologies+everyday" alt="Typing Animation" />
+</p>
+
 ### 🌐 Connect with Me
 <p align="center">
 <a href="https://linkedin.com/in/yuganigunarathna" target="blank">
@@ -48,9 +52,7 @@
 
 
  
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi!+I'm+Yugani+Gunarathna;A+passionate+Software+Developer;Exploring+new+technologies+everyday" alt="Typing Animation" />
-</p>
+
 
 ---
 
