@@ -43,26 +43,14 @@
 
 ---
 
-### 🎵 Now Playing  
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31tqgnxjcv6nj3q56kxzr5bhl2se&cover_image=true&theme=novatorem" alt="Spotify Now Playing" />
-</p>
 
----
 
-### 🚀 Fun Animation  
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=Hi!+I'm+Yugani+Gunarathna;A+passionate+Software+Developer;Exploring+new+technologies+everyday;Let's+build+something+amazing!" />
 </p>
 
----
 
-### 🏆 GitHub Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuganigunarathna&theme=tokyonight&no-bg=true&no-frame=true" />
-</p>
-
----
 
 ### 🚀 Latest Projects  
 - ✅ **MealMorph:** A dynamic subscription-based meal planning website  
