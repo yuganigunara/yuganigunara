@@ -27,10 +27,10 @@
   <a href="https://www.linkedin.com/in/yugani-gunarathna-3183a0309" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:yuganigunarathna@example.com" target="_blank">
+  <a href="mailto:yuganeshao27g@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://github.com/yuganigunarathna" target="_blank">
+  <a href="https://github.com/yuganigunara" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
@@ -44,13 +44,19 @@
 
 ---
 
+
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yuganigunarathna&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=yuganigunarathna&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/m/yuganigunarathna?label=Live%20Status&style=for-the-badge&logo=github&color=2e2e2e" alt="GitHub Live Status"/>
+</p>
+
 ---
+
 
 ## 🚀 Latest Projects  
 - **MealMorph** – Dynamic subscription-based meal planning website  
