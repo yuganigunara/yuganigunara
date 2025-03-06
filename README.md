@@ -30,6 +30,9 @@
   <a href="mailto:yuganigunarathna@example.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="https://github.com/yuganigunarathna" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
 ---
