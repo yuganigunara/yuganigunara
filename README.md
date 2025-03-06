@@ -46,14 +46,8 @@
 
 ---
 
-### 🎵 Now Playing  
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31tqgnxjcv6nj3q56kxzr5bhl2se&cover_image=true&theme=default" alt="Spotify Now Playing" />
-</p>
 
----
-
-### ✨ Fun Animation  
+ 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi!+I'm+Yugani+Gunarathna;A+passionate+Software+Developer;Exploring+new+technologies+everyday" alt="Typing Animation" />
 </p>
