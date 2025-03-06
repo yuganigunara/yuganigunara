@@ -8,6 +8,14 @@
 
 ---
 
+ 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=Hi!+I'm+Yugani+Gunarathna;A+passionate+Software+Developer;Exploring+new+technologies+everyday;Let's+build+something+amazing!" />
+</p>
+
+---
+---
+
 ## 🛠️ About Me  
 🔹 **HND Software Engineering Student** @ **NIBM**  
 🔹 Passionate about **Software Development, Web Technologies, and AI**  
@@ -48,14 +56,7 @@
 ✅ **Barcode Detection** – An innovative barcode scanning project  
 ✅ **Healthcare Management System** – A microservices-based application  
 
----
 
- 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=Hi!+I'm+Yugani+Gunarathna;A+passionate+Software+Developer;Exploring+new+technologies+everyday;Let's+build+something+amazing!" />
-</p>
-
----
 
 ## 💬 Let's Connect!  
 💡 Always open to discussing **new projects, collaborations, and opportunities**!  
