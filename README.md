@@ -1,5 +1,5 @@
 ## Hi there! 👋 I'm **Yugani Gunarathna**  
-### 🚀 Intern Software Engineer | Sri Lanka  
+### 🚀 Software Engineer Student | Sri Lanka  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yuganigunarathna&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views" />
