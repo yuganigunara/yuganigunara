@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi 👋, I'm Yugani Gunarathna</h1>
 <h3 align="center">💻 3rd Year Computing Student | Aspiring Software Developer | Sri Lanka 🇱🇰</h3>
 
 <p align="center">
@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi!+I'm+Yugani+Gunarathna;3rd+Year+Computing+Student;Internship+Completed+Developer;Seeking+Associate+Software+Engineer+Role;Passionate+About+Building+Software!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi!+I'm+Yugani+Gunarathna;3rd+Year+Computing+Student;Internship+Completed+at+SLT;Future+Software+Engineer;Passionate+Developer" />
 </p>
 
 ---
@@ -17,9 +17,9 @@
 
 🎓 3rd Year Computing Student  
 💼 Internship Completed at Sri Lanka Telecom (SLT)  
-🔎 Seeking Associate Software Engineer Position  
+🔎 Looking for Associate Software Engineer opportunities  
 💻 Interested in Full Stack Development  
-🚀 Skills: Java | PHP | React | MySQL  
+🚀 Skilled in Java | PHP | React | MySQL  
 
 ---
 
@@ -28,17 +28,18 @@
 🏢 Sri Lanka Telecom (SLT)  
 🛠️ Role: Software Engineering Intern  
 
-✔ CRUD system development  
-✔ Database handling (MySQL)  
-✔ UI development  
-✔ Testing & debugging  
+✔ Developed web applications  
+✔ Worked with databases (MySQL)  
+✔ Built CRUD functionalities  
+✔ UI improvements and testing  
+✔ Debugging and maintenance tasks  
 
 ---
 
 # 💻 Tech Stack  
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,html,css,bootstrap,git,mysql,php,nodejs,python,django,mongodb" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,html,css,bootstrap,git,mysql,php,nodejs,python,django,mongodb,linux" />
 </p>
 
 ---
@@ -55,24 +56,40 @@
 
 ---
 
-# ⭐ Featured Projects  
+# 🚀 Featured Projects  
 
 ## 🍽️ MealMorph  
-PHP + MySQL based dynamic meal planning system  
+PHP + MySQL based meal planning system  
 
-## 🏥 Healthcare System  
-Spring Boot + React application  
+## 🏥 Healthcare Management System  
+Spring Boot + React full-stack project  
 
-## 📷 Barcode Scanner  
-Python OpenCV project  
+## 📷 Barcode Detection  
+Python OpenCV based detection system  
 
 ---
 
-# 🐍 Contribution Snake (FIXED WORKING VERSION)
+# 🌐 Connect With Me  
 
-👉 This is the **correct working method**
-
-```markdown
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yuganigunara/yuganigunara/output/github-contribution-grid-snake.svg" />
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/yuganigunara">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
+
+---
+
+# ⭐ Final Note  
+
+✨ Always learning and improving as a developer  
+🚀 Open to software engineering opportunities  
