@@ -2,10 +2,21 @@
 <h3 align="center">3rd Year Computing Student | Aspiring Software Developer | Sri Lanka</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yuganigunara&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
   <a href="https://github.com/yuganigunara/yuganigunara/actions/workflows/snake.yml">
     <img src="https://github.com/yuganigunara/yuganigunara/actions/workflows/snake.yml/badge.svg" alt="Snake Workflow Status" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=yuganigunara&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuganigunara/yuganigunara/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuganigunara/yuganigunara/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/yuganigunara/yuganigunara/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -42,14 +53,6 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,bootstrap,git,mysql,php,nodejs,python,django,mongodb,linux" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yuganigunara/yuganigunara/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
