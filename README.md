@@ -15,45 +15,30 @@
 
 # 🧑‍💻 About Me  
 
-🎓 **3rd Year Computing Student**  
-💼 Successfully completed **Software Engineering Internship**  
-🏢 Internship completed at **Sri Lanka Telecom (SLT)**  
-🔎 Currently **seeking an Associate Software Engineer position**  
-💻 Interested in **Full Stack Development & Web Technologies**  
-🚀 Skilled in **Java, PHP, MySQL, React**  
+🎓 3rd Year Computing Student  
+💼 Internship Completed at Sri Lanka Telecom (SLT)  
+🔎 Seeking Associate Software Engineer Position  
+💻 Interested in Full Stack Development  
+🚀 Skills: Java | PHP | React | MySQL  
 
 ---
 
 # 💼 Internship Experience  
 
-🏢 **Company:** Sri Lanka Telecom (SLT)  
+🏢 Sri Lanka Telecom (SLT)  
 🛠️ Role: Software Engineering Intern  
 
-### Responsibilities:
-
-✔ Developed web-based system features  
-✔ Implemented CRUD operations  
-✔ Worked with databases (MySQL)  
-✔ Designed UI components  
-✔ Tested and debugged applications  
-
----
-
-# 🌱 Currently Learning  
-
-- Spring Boot  
-- React.js  
-- Microservices Architecture  
-- REST API Development  
+✔ CRUD system development  
+✔ Database handling (MySQL)  
+✔ UI development  
+✔ Testing & debugging  
 
 ---
 
 # 💻 Tech Stack  
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,html,css,bootstrap,git,mysql,php,nodejs,python,django,mongodb,linux,postgres,sqlite,typescript" />
-
+<img src="https://skillicons.dev/icons?i=java,spring,react,html,css,bootstrap,git,mysql,php,nodejs,python,django,mongodb" />
 </p>
 
 ---
@@ -64,7 +49,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=yuganigunara&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yuganigunara&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuganigunara&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 </p>
 
@@ -73,60 +58,21 @@
 # ⭐ Featured Projects  
 
 ## 🍽️ MealMorph  
-Dynamic subscription-based meal planning system  
+PHP + MySQL based dynamic meal planning system  
 
-🛠️ Tech: PHP | MySQL | JavaScript  
+## 🏥 Healthcare System  
+Spring Boot + React application  
 
-🔗 https://github.com/yuganigunara  
-
----
-
-## 🏥 Healthcare Management System  
-Microservices-based healthcare platform  
-
-🛠️ Tech: Spring Boot | React  
-
-🔗 https://github.com/yuganigunara  
+## 📷 Barcode Scanner  
+Python OpenCV project  
 
 ---
 
-## 📷 Barcode Detection  
-Barcode scanning project  
+# 🐍 Contribution Snake (FIXED WORKING VERSION)
 
-🛠️ Tech: Python  
+👉 This is the **correct working method**
 
-🔗 https://github.com/yuganigunara  
-
----
-
-# 🎯 Career Objective  
-
-🚀 Seeking an **Associate Software Engineer position**  
-🚀 Passionate about building scalable web applications  
-🚀 Interested in continuous learning and professional growth  
-
----
-
-# 🌐 Connect With Me  
-
+```markdown
 <p align="center">
-
-<a href="https://www.linkedin.com/in/yugani-gunarathna-3183a0309">
-<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:yuganeshao27g@gmail.com">
-<img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/yuganigunara">
-<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-✨ Open to Associate Software Engineer Opportunities ✨  
+  <img src="https://raw.githubusercontent.com/yuganigunara/yuganigunara/output/github-contribution-grid-snake.svg" />
 </p>
