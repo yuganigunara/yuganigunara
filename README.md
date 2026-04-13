@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yugani Gunarathna</h1>
-<h3 align="center">💻 3rd Year Computing Student | Aspiring Software Developer | Seeking Associate Position 🇱🇰</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">💻 3rd Year Computing Student | Aspiring Software Developer | Sri Lanka 🇱🇰</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yuganigunara&label=Profile%20Views&color=36BCF7&style=flat-square" />
@@ -17,26 +17,25 @@
 
 🎓 **3rd Year Computing Student**  
 💼 Successfully completed **Software Engineering Internship**  
+🏢 Internship completed at **Sri Lanka Telecom (SLT)**  
 🔎 Currently **seeking an Associate Software Engineer position**  
 💻 Interested in **Full Stack Development & Web Technologies**  
 🚀 Skilled in **Java, PHP, MySQL, React**  
-🤝 Passionate about solving real-world problems  
 
 ---
 
 # 💼 Internship Experience  
 
-🏢 **Company:** Sumithra Garment Pvt Ltd  
-📍 Location: Wattala, Sri Lanka  
+🏢 **Company:** Sri Lanka Telecom (SLT)  
 🛠️ Role: Software Engineering Intern  
 
 ### Responsibilities:
 
-✔ Developed web-based application features  
+✔ Developed web-based system features  
 ✔ Implemented CRUD operations  
-✔ Worked with MySQL databases  
+✔ Worked with databases (MySQL)  
 ✔ Designed UI components  
-✔ Tested and debugged system modules  
+✔ Tested and debugged applications  
 
 ---
 
@@ -66,16 +65,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=yuganigunara&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuganigunara&theme=tokyonight&hide_border=true" width="48%"/>
-
-</p>
-
----
-
-# 📈 Most Used Languages  
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuganigunara&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 </p>
 
@@ -113,8 +102,8 @@ Barcode scanning project
 # 🎯 Career Objective  
 
 🚀 Seeking an **Associate Software Engineer position**  
-🚀 Interested in building scalable web applications  
-🚀 Passionate about continuous learning and development  
+🚀 Passionate about building scalable web applications  
+🚀 Interested in continuous learning and professional growth  
 
 ---
 
