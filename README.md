@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=yuganigunara&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/yuganigunara/yuganigunara/actions/workflows/snake.yml">
-    <img src="https://github.com/yuganigunara/yuganigunara/actions/workflows/snake.yml/badge.svg" alt="Snake Workflow Status" />
-  </a>
-</p>
-
 ---
 
 <p align="center">
