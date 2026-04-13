@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">💻 3rd Year Computing Student | Aspiring Software Developer | Sri Lanka 🇱🇰</h3>
+<h1 align="center">Hi, I'm Yugani Gunarathna 👋</h1>
+<h3 align="center">3rd Year Computing Student | Aspiring Software Developer | Sri Lanka</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yuganigunara&label=Profile%20Views&color=36BCF7&style=flat-square" />
+  <a href="https://github.com/yuganigunara/yuganigunara/actions/workflows/snake.yml">
+    <img src="https://github.com/yuganigunara/yuganigunara/actions/workflows/snake.yml/badge.svg" alt="Snake Workflow Status" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=yuganigunara&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -13,30 +16,29 @@
 
 ---
 
-# 🧑‍💻 About Me  
+# 🧑‍💻 About Me
 
-🎓 3rd Year Computing Student  
-💼 Internship Completed at Sri Lanka Telecom (SLT)  
-🔎 Looking for Associate Software Engineer opportunities  
-💻 Interested in Full Stack Development  
-🚀 Skilled in Java | PHP | React | MySQL  
-
----
-
-# 💼 Internship Experience  
-
-🏢 Sri Lanka Telecom (SLT)  
-🛠️ Role: Software Engineering Intern  
-
-✔ Developed web applications  
-✔ Worked with databases (MySQL)  
-✔ Built CRUD functionalities  
-✔ UI improvements and testing  
-✔ Debugging and maintenance tasks  
+- 🎓 3rd Year Computing Student
+- 💼 Internship completed at Sri Lanka Telecom (SLT)
+- 🔎 Looking for Associate Software Engineer opportunities
+- 💻 Interested in full-stack development
+- 🚀 Skilled in Java, PHP, React, and MySQL
 
 ---
 
-# 💻 Tech Stack  
+# 💼 Internship Experience
+
+- 🏢 Sri Lanka Telecom (SLT)
+- 🛠️ Role: Software Engineering Intern
+- ✔ Developed web applications
+- ✔ Worked with databases (MySQL)
+- ✔ Built CRUD functionalities
+- ✔ Improved UI and tested user flows
+- ✔ Handled debugging and maintenance tasks
+
+---
+
+# 💻 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,bootstrap,git,mysql,php,nodejs,python,django,mongodb,linux" />
@@ -44,7 +46,15 @@
 
 ---
 
-# 📊 GitHub Stats  
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yuganigunara/yuganigunara/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -56,20 +66,20 @@
 
 ---
 
-# 🚀 Featured Projects  
+# 🚀 Featured Projects
 
-## 🍽️ MealMorph  
-PHP + MySQL based meal planning system  
+## 🍽️ MealMorph
+PHP + MySQL based meal planning system
 
-## 🏥 Healthcare Management System  
-Spring Boot + React full-stack project  
+## 🏥 Healthcare Management System
+Spring Boot + React full-stack project
 
-## 📷 Barcode Detection  
-Python OpenCV based detection system  
+## 📷 Barcode Detection
+Python OpenCV based detection system
 
 ---
 
-# 🌐 Connect With Me  
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -91,5 +101,5 @@ Python OpenCV based detection system
 
 # ⭐ Final Note  
 
-✨ Always learning and improving as a developer  
-🚀 Open to software engineering opportunities  
+✨ Always learning and improving as a developer
+🚀 Open to software engineering opportunities
