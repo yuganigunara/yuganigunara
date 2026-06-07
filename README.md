@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Yugani Gunarathna 👋</h1>
-<h3 align="center">3rd Year Computing Student | Aspiring Software Developer | Sri Lanka</h3>
+<h3 align="center">3rd Year Computing Student | Software Developer | Sri Lanka</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yuganigunara&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views" />
@@ -19,7 +19,7 @@
 - 💼 Internship completed at Sri Lanka Telecom (SLT)
 - 🔎 Looking for Associate Software Engineer opportunities
 - 💻 Interested in full-stack development
-- 🚀 Skilled in Java, PHP, React, and MySQL
+- 🚀 Skilled in Java, PHP, React, Mongo and MySQL
 
 ---
 
@@ -27,9 +27,8 @@
 
 - 🏢 Sri Lanka Telecom (SLT)
 - 🛠️ Role: Software Engineering Intern
-- ✔ Developed web applications
-- ✔ Worked with databases (MySQL)
-- ✔ Built CRUD functionalities
+- ✔ Developed web applications (Full Stack)
+- ✔ Worked with databases (Mongo)
 - ✔ Improved UI and tested user flows
 - ✔ Handled debugging and maintenance tasks
 
@@ -68,6 +67,12 @@
 ---
 
 # 🚀 Featured Projects
+
+## NailsArt Studio
+React + Mongo based Nails art system
+
+## Algo play
+React + Python Sqlite based Gaming App
 
 ## 🍽️ MealMorph
 PHP + MySQL based meal planning system
